@@ -16,3 +16,4 @@
 2 文本框没有检索功能，后续会补上关键词监控（留意更新）
 
  
+![image](https://github.com/thejosan/k8stools-log-monitor/blob/master/img/k8stools-log-monitor.jpg)
