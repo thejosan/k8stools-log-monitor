@@ -1,0 +1,9 @@
+# github.com/lxn/walk v0.0.0-20191106172653-8c6cb582c05e
+github.com/lxn/walk
+github.com/lxn/walk/declarative
+# github.com/lxn/win v0.0.0-20191106123917-121afc750dd3
+github.com/lxn/win
+# golang.org/x/sys v0.0.0-20190904154756-749cb33beabd => github.com/golang/sys v0.0.0-20191105231009-c1f44814a5cd
+golang.org/x/sys/windows
+# gopkg.in/Knetic/govaluate.v3 v3.0.0
+gopkg.in/Knetic/govaluate.v3
